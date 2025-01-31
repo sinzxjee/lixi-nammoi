@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const container = document.getElementById("liXiContainer");
-    const numLiXi = 10; // Number of envelopes
+    const numLiXi = 1; // Number of envelopes
 
     for (let i = 0; i < numLiXi; i++) {
         let liXi = document.createElement("div");
